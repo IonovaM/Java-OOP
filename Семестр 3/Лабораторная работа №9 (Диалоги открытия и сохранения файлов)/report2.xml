@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19" class="java.beans.XMLDecoder">
+ <object class="LWork_9.Bank" id="Bank0">
+  <void property="cashMachineList">
+   <void method="add">
+    <object class="LWork_9.CashMachine">
+     <void property="ID">
+      <int>101</int>
+     </void>
+     <void property="address">
+      <string>г. Томск, ул. Красноармейская, 135</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.CashMachine">
+     <void property="ID">
+      <int>102</int>
+     </void>
+     <void property="address">
+      <string>г. Томск, просп. Кирова, 36</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.CashMachine">
+     <void property="ID">
+      <int>103</int>
+     </void>
+     <void property="address">
+      <string>г. Томск, просп. Фрунзе, д. 90/1</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.CashMachine">
+     <void property="ID">
+      <int>104</int>
+     </void>
+     <void property="address">
+      <string>г. Томск, Иркутский тракт, 33</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.CashMachine">
+     <void property="ID">
+      <int>105</int>
+     </void>
+     <void property="address">
+      <string>г. Томск, ул. Усова, 37</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="checkList">
+   <void method="add">
+    <object class="LWork_9.Usual_Check">
+     <void property="PIN">
+      <int>1111</int>
+     </void>
+     <void property="nomer">
+      <int>111</int>
+     </void>
+     <void property="ostatok">
+      <int>1000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Usual_Check">
+     <void property="PIN">
+      <int>2222</int>
+     </void>
+     <void property="nomer">
+      <int>222</int>
+     </void>
+     <void property="ostatok">
+      <int>2000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Usual_Check">
+     <void property="PIN">
+      <int>3333</int>
+     </void>
+     <void property="nomer">
+      <int>333</int>
+     </void>
+     <void property="ostatok">
+      <int>3000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Usual_Check">
+     <void property="PIN">
+      <int>4444</int>
+     </void>
+     <void property="nomer">
+      <int>444</int>
+     </void>
+     <void property="ostatok">
+      <int>4000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Preferential_Check">
+     <void property="PIN">
+      <int>5555</int>
+     </void>
+     <void property="nomer">
+      <int>555</int>
+     </void>
+     <void property="ostatok">
+      <int>5000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Preferential_Check">
+     <void property="PIN">
+      <int>6666</int>
+     </void>
+     <void property="nomer">
+      <int>666</int>
+     </void>
+     <void property="ostatok">
+      <int>6000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="LWork_9.Preferential_Check">
+     <void property="PIN">
+      <int>7777</int>
+     </void>
+     <void property="nomer">
+      <int>777</int>
+     </void>
+     <void property="ostatok">
+      <int>7000</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="name">
+   <string>Sber</string>
+  </void>
+ </object>
+</java>
